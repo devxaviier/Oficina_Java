@@ -195,6 +195,7 @@ Estudante de Engenharia de Software no CEUB
 |---|---|
 | **RA:** | `22650114` |
 | **E-mail institucional:** | [theo.xavier@sempreceub.com](mailto:theo.xavier@sempreceub.com) |
+| | |
 
 [![GitHub](https://img.shields.io/badge/GitHub-devxaviier-181717?style=flat-square&logo=github)](https://github.com/devxaviier)
 
